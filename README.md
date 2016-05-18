@@ -10,7 +10,9 @@ Qt software version update auto check,when website have some change
     QApplication::setApplicationVersion("2.0");
 ```
 change the version .
+
 4. Edit you Appcast.xml file , most useful information are in 
+
 ```markdown
 <enclosure
 				url="http://you.com/app/Your%20Great%20App%202.0%20Windows.zip"
