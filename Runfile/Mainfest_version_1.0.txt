@@ -1,0 +1,3 @@
+EXECUTABLE_DIR "UpdateModel.exe" 1859 WIN
+EXECUTABLE_DIR "hello.exe" 2 WIN
+
